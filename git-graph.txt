@@ -1,0 +1,30 @@
+* d3a3a31 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* c3b6950 docs:Add Git Journey documentation
+| *   1cbf4a9 (origin/feature/another-feature, feature/another-feature) Merge branch 'feature/another-feature' of https://github.com/sucha6174/git-solved-23mh1a4426 into feature/another-feature
+| |\  
+| * | 3771191 docs: Add FAQ section
+| | | * 7ad81b8 (refs/stash) WIP on feature/another-feature: b2a493e feat:Add test feature
+| | |/| 
+| | | * 129db25 index on feature/another-feature: b2a493e feat:Add test feature
+| | |/  
+| | * b2a493e feat:Add test feature
+| |/  
+|/|   
+* | 85ce102 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+|/  
+* c436af7 merge:Resolve all conflicts between main and dev branches
+* 1cd82eb docs: Add FAQ section
+| * 8b85d03 (origin/feature/new-feature, feature/new-feature) feat:Add new feature
+|/  
+*   334c43f merge:Resolve all conflicts between main and dev branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | ab2b43d Added checkpoint 2 screenshot
+* |   7b15486 Resolved all mege conflicts between main and dev
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
